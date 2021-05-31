@@ -1,2 +1,2 @@
 # MarkNow
-A collaborative markdown editor by Java
+A collaborative markdown editor by Java @ ZJU
